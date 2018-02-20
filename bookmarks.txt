@@ -1,1 +1,2 @@
 https://arxiv.org/abs/1609.02200 - Discrete Variational Autoencoders
+https://arxiv.org/abs/1705.07364 , https://openreview.net/forum?id=Skj8Kag0Z - Stabilizing Adversarial Nets with Prediction Methods
