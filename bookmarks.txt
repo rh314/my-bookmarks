@@ -1,6 +1,13 @@
+Machine learning:
+=================
 https://arxiv.org/abs/1609.02200 - Discrete Variational Autoencoders
 https://arxiv.org/abs/1705.07364 , https://openreview.net/forum?id=Skj8Kag0Z - Stabilizing Adversarial Nets with Prediction Methods
 (also see https://www.youtube.com/watch?v=78vq6kgsTa8 related to this link)
 https://arxiv.org/pdf/1802.08665.pdf, https://github.com/google/gumbel_sinkhorn - Gumbel-Sinkhorn permutations
 
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
+
+Misc:
+=====
+Fibonacci hashing - https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
+
