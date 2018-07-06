@@ -6,6 +6,8 @@ https://arxiv.org/abs/1705.07364 , https://openreview.net/forum?id=Skj8Kag0Z - S
 https://arxiv.org/pdf/1802.08665.pdf, https://github.com/google/gumbel_sinkhorn - Gumbel-Sinkhorn permutations
 https://paperswithcode.com/
 https://arxiv.org/pdf/1807.01622.pdf - Neural processes (build on gaussian processes ideas)
+https://arxiv.org/abs/1806.02920 - GAIN: Missing Data Imputation using Generative Adversarial Nets
+https://arxiv.org/pdf/1708.06724.pdf - VIGAN: Missing View Imputation with Generative Adversarial Networks
 
 Security:
 =========
