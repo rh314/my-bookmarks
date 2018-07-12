@@ -9,6 +9,7 @@ https://arxiv.org/pdf/1807.01622.pdf - Neural processes (build on gaussian proce
 https://arxiv.org/abs/1806.02920 - GAIN: Missing Data Imputation using Generative Adversarial Nets
 https://arxiv.org/pdf/1708.06724.pdf - VIGAN: Missing View Imputation with Generative Adversarial Networks
 https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db - CatBoost vs. Light GBM vs. XGBoost
+https://arxiv.org/pdf/1806.05236.pdf - Manifold Mixup. (Sort of like SMOTE - but SMOTE on the hidden layer(s), i.e. representation)
 
 Security:
 =========
