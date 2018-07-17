@@ -19,4 +19,5 @@ https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
 Misc:
 =====
 Fibonacci hashing - https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
+A project that hooks a jupyter notebook into running python code - https://github.com/ebanner/pynt
 
