@@ -21,3 +21,11 @@ Misc:
 Fibonacci hashing - https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
 A project that hooks a jupyter notebook into running python code - https://github.com/ebanner/pynt
 
+Reddit:
+=======
+- https://www.reddit.com/r/datasets/
+- https://www.reddit.com/r/dataisbeautiful/
+- https://www.reddit.com/r/MachineLearning/
+- https://www.reddit.com/r/learnmachinelearning
+- https://www.reddit.com/r/reinforcementlearning/
+- https://www.reddit.com/r/MLQuestions/
