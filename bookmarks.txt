@@ -12,6 +12,8 @@ https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db - C
 https://arxiv.org/pdf/1806.05236.pdf - Manifold Mixup. (Sort of like SMOTE - but SMOTE on the hidden layer(s), i.e. representation.
 Github here: https://github.com/vikasverma1077/manifold_mixup)
 https://arxiv.org/abs/1802.05098 - DiCE - higher order derivatives and monte carlo approach method ("Infinitely Differentiable Monte-Carlo Estimator")
+https://arxiv.org/abs/1803.00144 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses
+
 
 Security:
 =========
