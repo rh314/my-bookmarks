@@ -11,6 +11,7 @@ https://arxiv.org/abs/1802.05098 - DiCE - higher order derivatives and monte car
 https://arxiv.org/abs/1803.00144 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses
 https://arxiv.org/abs/1801.09819 - Density estimation using "Transformation Autoregressive Networks"
 (repo here: https://github.com/lupalab/tan)
+VQ-VAE - Vector Quantised Variational AutoEncoder - https://arxiv.org/pdf/1711.00937.pdf
 
 ML - Generative:
 ================
