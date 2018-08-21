@@ -42,3 +42,8 @@ Reddit:
 - https://www.reddit.com/r/learnmachinelearning
 - https://www.reddit.com/r/reinforcementlearning/
 - https://www.reddit.com/r/MLQuestions/
+
+Git tools:
+==========
+- https://techgaun.github.io/active-forks/index.html
+
