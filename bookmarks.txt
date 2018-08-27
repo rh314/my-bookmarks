@@ -12,6 +12,7 @@ https://arxiv.org/abs/1803.00144 - Learning Longer-term Dependencies in RNNs wit
 https://arxiv.org/abs/1801.09819 - Density estimation using "Transformation Autoregressive Networks"
 (repo here: https://github.com/lupalab/tan)
 https://arxiv.org/pdf/1711.00937.pdf - VQ-VAE - Vector Quantised Variational AutoEncoder
+https://www.nitarshan.com/bayes-by-backprop/ - Nicely explained bayesian nueral networks
 
 ML - Generative:
 ================
