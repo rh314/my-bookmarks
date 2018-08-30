@@ -26,6 +26,15 @@ ML - Reinforcement learning:
 ============================
 https://arxiv.org/abs/1712.10285 - SBEED / Saddle point reformulation of Bellman equation.
 
+ML - Competition sites:
+=======================
+https://www.kaggle.com
+https://www.drivendata.org
+https://tianchi.aliyun.com/competition/gameList.htm
+https://www.crowdanalytix.com/
+https://www.crowdai.org/challenges
+https://challengedata.ens.fr/en/home
+
 Security:
 =========
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
