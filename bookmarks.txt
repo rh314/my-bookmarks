@@ -35,6 +35,10 @@ https://www.crowdanalytix.com/
 https://www.crowdai.org/challenges
 https://challengedata.ens.fr/en/home
 
+ML - datasets:
+==============
+https://www.openml.org/
+
 Security:
 =========
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
