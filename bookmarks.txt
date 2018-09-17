@@ -38,6 +38,7 @@ https://challengedata.ens.fr/en/home
 ML - datasets:
 ==============
 https://www.openml.org/
+https://tinyletter.com/data-is-plural  (click on spreadsheet link)
 
 Security:
 =========
