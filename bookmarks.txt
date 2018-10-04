@@ -26,6 +26,10 @@ ML - Reinforcement learning:
 ============================
 https://arxiv.org/abs/1712.10285 - SBEED / Saddle point reformulation of Bellman equation.
 
+ML - NLP
+========
+https://arxiv.org/pdf/1809.08510.pdf - Towards language agnostic universal representations
+
 ML - Competition sites:
 =======================
 https://www.kaggle.com
