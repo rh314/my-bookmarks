@@ -13,6 +13,7 @@ https://arxiv.org/abs/1801.09819 - Density estimation using "Transformation Auto
 (repo here: https://github.com/lupalab/tan)
 https://arxiv.org/pdf/1711.00937.pdf - VQ-VAE - Vector Quantised Variational AutoEncoder
 https://www.nitarshan.com/bayes-by-backprop/ - Nicely explained bayesian nueral networks
+https://arxiv.org/pdf/1810.01118.pdf - Sinkhorn Autoencoders
 
 ML - Generative:
 ================
