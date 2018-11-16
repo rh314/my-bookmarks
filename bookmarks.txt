@@ -15,6 +15,7 @@ https://arxiv.org/pdf/1711.00937.pdf - VQ-VAE - Vector Quantised Variational Aut
 https://www.nitarshan.com/bayes-by-backprop/ - Nicely explained bayesian nueral networks
 https://arxiv.org/pdf/1810.01118.pdf - Sinkhorn Autoencoders
 https://arxiv.org/abs/1811.00164 - Deep Counterfactual Regret Minimization
+https://arxiv.org/pdf/1811.04751.pdf - Gaussian auto encoder
 
 ML - Generative:
 ================
