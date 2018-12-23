@@ -24,6 +24,7 @@ https://arxiv.org/abs/1705.07364 , https://openreview.net/forum?id=Skj8Kag0Z - S
 https://arxiv.org/abs/1806.02920 - GAIN: Missing Data Imputation using Generative Adversarial Nets
 https://arxiv.org/pdf/1708.06724.pdf - VIGAN: Missing View Imputation with Generative Adversarial Networks
 https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/ - https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/
+https://openreview.net/forum?id=SkVhlh09tX - Pay Less Attention with Lightweight and Dynamic Convolutions
 
 ML - Reinforcement learning:
 ============================
