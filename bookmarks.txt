@@ -48,6 +48,10 @@ ML - datasets:
 https://www.openml.org/
 https://tinyletter.com/data-is-plural  (click on spreadsheet link)
 
+ML - courses:
+=============
+http://d2l.ai/ - Berkeley DL Course
+
 Security:
 =========
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
