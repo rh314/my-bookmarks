@@ -31,6 +31,7 @@ ML - Reinforcement learning:
 https://arxiv.org/abs/1712.10285 - SBEED / Saddle point reformulation of Bellman equation.
 https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml - cute collection where reward function failures
 https://arxiv.org/abs/1901.08106 - (Rectified Nash Response) Open-ended Learning in Symmetric Zero-sum Games
+https://papers.nips.cc/paper/7588-re-evaluating-evaluation.pdf - see... Nash averaging
 
 ML - NLP
 ========
