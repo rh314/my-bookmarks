@@ -55,6 +55,10 @@ ML - courses:
 =============
 http://d2l.ai/ - Berkeley DL Course
 
+ML - tips / practical:
+======================
+- https://medium.com/styria-data-science-tech-blog/running-pytorch-models-in-production-fa09bebca622
+
 Security:
 =========
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
