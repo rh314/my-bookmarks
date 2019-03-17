@@ -16,6 +16,7 @@ https://www.nitarshan.com/bayes-by-backprop/ - Nicely explained bayesian nueral 
 https://arxiv.org/pdf/1810.01118.pdf - Sinkhorn Autoencoders
 https://arxiv.org/abs/1811.00164 - Deep Counterfactual Regret Minimization
 https://arxiv.org/pdf/1811.04751.pdf - Gaussian auto encoder
+https://arxiv.org/pdf/1806.03417.pdf - Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry (also watch https://github.com/kousun12/tf_hyperbolic)
 
 ML - Generative:
 ================
