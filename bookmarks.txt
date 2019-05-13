@@ -18,6 +18,7 @@ https://arxiv.org/abs/1811.00164 - Deep Counterfactual Regret Minimization
 https://arxiv.org/pdf/1811.04751.pdf - Gaussian auto encoder
 https://arxiv.org/pdf/1806.03417.pdf - Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry (also watch https://github.com/kousun12/tf_hyperbolic)
 https://mlpipes.com/source-code-layout-ai-pipelines/ - Tips for laying out an ML project's files
+https://arxiv.org/abs/1806.10230 - Guided evolutionary strategies: escaping the curse of dimensionality in random search
 
 ML - Generative:
 ================
