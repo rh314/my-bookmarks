@@ -37,6 +37,7 @@ https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiK
 https://arxiv.org/abs/1901.08106 - (Rectified Nash Response) Open-ended Learning in Symmetric Zero-sum Games
 https://papers.nips.cc/paper/7588-re-evaluating-evaluation.pdf - see... Nash averaging
 https://arxiv.org/pdf/1903.08894.pdf - Preconditioned Q-Networks (PreQN)  (try to make Q updates contractive to prevent divergence)
+https://arxiv.org/abs/1906.09674 - Ranking Policy Gradient
 
 ML - NLP
 ========
