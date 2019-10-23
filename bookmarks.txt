@@ -43,6 +43,7 @@ https://arxiv.org/abs/1906.09674 - Ranking Policy Gradient
 ML - NLP
 ========
 https://arxiv.org/pdf/1809.08510.pdf - Towards language agnostic universal representations
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf - Book on NLP
 
 ML - Competition sites:
 =======================
