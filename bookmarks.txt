@@ -74,6 +74,7 @@ https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
 Math:
 =====
 https://arxiv.org/pdf/1908.03795.pdf - Computing eigenvectors from eigenvalues  (note: https://news.ycombinator.com/item?id=21528425 - see jordigh's comment)
+(and also: https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
 
 Misc:
 =====
