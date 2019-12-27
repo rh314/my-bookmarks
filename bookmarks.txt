@@ -41,6 +41,7 @@ https://papers.nips.cc/paper/7588-re-evaluating-evaluation.pdf - see... Nash ave
 https://arxiv.org/pdf/1903.08894.pdf - Preconditioned Q-Networks (PreQN)  (try to make Q updates contractive to prevent divergence)
 https://arxiv.org/abs/1906.09674 - Ranking Policy Gradient
 https://arxiv.org/abs/1912.02503 - Hindsight Credit Assignment
+https://www.reddit.com/r/reinforcementlearning/comments/efaqxw/best_collections_of_drl_tips_tricks/ - thread with some nice links
 
 ML - NLP
 ========
