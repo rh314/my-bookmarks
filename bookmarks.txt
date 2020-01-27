@@ -67,6 +67,10 @@ ML - courses:
 =============
 http://d2l.ai/ - Berkeley DL Course
 
+ML - optimization:
+==================
+- https://arxiv.org/pdf/1912.10648.pdf - Monte-Carlo Tree Search for Policy Optimization  (can be applied to other "GA" too I think)
+
 ML - tips / practical:
 ======================
 - https://medium.com/styria-data-science-tech-blog/running-pytorch-models-in-production-fa09bebca622
