@@ -42,6 +42,7 @@ https://arxiv.org/pdf/1903.08894.pdf - Preconditioned Q-Networks (PreQN)  (try t
 https://arxiv.org/abs/1906.09674 - Ranking Policy Gradient
 https://arxiv.org/abs/1912.02503 - Hindsight Credit Assignment
 https://www.reddit.com/r/reinforcementlearning/comments/efaqxw/best_collections_of_drl_tips_tricks/ - thread with some nice links
+https://www.nature.com/articles/s41467-019-12552-4 - Optimal failure rate to make learning faster (15% fail, 85% success) 
 
 ML - NLP
 ========
