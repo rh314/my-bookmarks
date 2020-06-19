@@ -31,6 +31,7 @@ https://arxiv.org/pdf/1708.06724.pdf - VIGAN: Missing View Imputation with Gener
 https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/ - https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/
 https://openreview.net/forum?id=SkVhlh09tX - Pay Less Attention with Lightweight and Dynamic Convolutions
 https://arxiv.org/pdf/1811.07296.pdf - GAN-QP: A Novel GAN Framework without Gradient Vanishing and Lipschitz Constraint
+https://arxiv.org/abs/1908.10962 - Optimal transport mapping via input convex neural networks
 
 ML - Reinforcement learning:
 ============================
