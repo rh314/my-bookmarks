@@ -21,6 +21,7 @@ https://mlpipes.com/source-code-layout-ai-pipelines/ - Tips for laying out an ML
 https://arxiv.org/abs/1806.10230 - Guided evolutionary strategies: escaping the curse of dimensionality in random search
 https://openreview.net/pdf?id=ryxepo0cFX - AntiSymmetricRNN: A dynamical system view on recurrent neural networks
 https://arxiv.org/abs/1912.00144 - Learning Rate Dropout
+https://arxiv.org/abs/2006.09661 - (SIREN) Implicit Neural Representations with Periodic Activation Functions
 
 ML - Generative:
 ================
