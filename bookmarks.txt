@@ -22,6 +22,7 @@ https://arxiv.org/abs/1806.10230 - Guided evolutionary strategies: escaping the 
 https://openreview.net/pdf?id=ryxepo0cFX - AntiSymmetricRNN: A dynamical system view on recurrent neural networks
 https://arxiv.org/abs/1912.00144 - Learning Rate Dropout
 https://arxiv.org/abs/2006.09661 - (SIREN) Implicit Neural Representations with Periodic Activation Functions
+https://arxiv.org/abs/2009.08378 - EventProp: Backpropagation for Exact Gradients in Spiking Neural Networks
 
 ML - Generative:
 ================
