@@ -23,7 +23,11 @@ https://openreview.net/pdf?id=ryxepo0cFX - AntiSymmetricRNN: A dynamical system 
 https://arxiv.org/abs/1912.00144 - Learning Rate Dropout
 https://arxiv.org/abs/2006.09661 - (SIREN) Implicit Neural Representations with Periodic Activation Functions
 https://arxiv.org/abs/2009.08378 - EventProp: Backpropagation for Exact Gradients in Spiking Neural Networks
+
+OOD - Out-of-distribution / unseen sample detection
+===================================================
 https://arxiv.org/pdf/1910.02600.pdf - "Deep evidential regression" (predict if data is out-of-sample?) (also https://papers.nips.cc/paper/2020/file/aab085461de182608ee9f607f3f7d18f-Paper.pdf)
+https://arxiv.org/abs/2106.04260 - "ProoD: Provably Robust Detection of Out-of-distribution Data (almost) for free"  (also https://github.com/AlexMeinke/Provable-OOD-Detection)
 
 ML - Generative:
 ================
