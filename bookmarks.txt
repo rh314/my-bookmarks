@@ -68,6 +68,7 @@ https://tianchi.aliyun.com/competition/gameList.htm
 https://www.crowdanalytix.com/
 https://www.crowdai.org/challenges
 https://challengedata.ens.fr/en/home
+https://eval.ai/web/challenges/list
 
 ML - datasets:
 ==============
