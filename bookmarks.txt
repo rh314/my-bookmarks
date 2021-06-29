@@ -117,3 +117,7 @@ Git tools:
 Libraries:
 ==========
 - Curates list of tools/libraries: https://github.com/amitness/toolbox
+
+Mathematics:
+============
+- http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/contactron.html (Dr Ron Knott's web pages on Mathematics)
