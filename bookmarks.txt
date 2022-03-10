@@ -1,5 +1,6 @@
 Machine learning:
 =================
+https://arxiv.org/list/cs.LG/recent - Arxiv most recent ML submissions
 https://arxiv.org/abs/1609.02200 - Discrete Variational Autoencoders
 https://arxiv.org/pdf/1802.08665.pdf, https://github.com/google/gumbel_sinkhorn - Gumbel-Sinkhorn permutations
 https://paperswithcode.com/ - Paper feed + which papers have code
