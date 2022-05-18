@@ -57,12 +57,13 @@ https://www.reddit.com/r/reinforcementlearning/comments/efaqxw/best_collections_
 https://www.nature.com/articles/s41467-019-12552-4 - Optimal failure rate to make learning faster (15% fail, 85% success) 
 https://arxiv.org/abs/1612.05628 - "Mellowmax", an Alternative Softmax Operator for Reinforcement Learning (also https://www.youtube.com/watch?v=wVBQGKMX974)
 
-ML - NLP
-========
+ML - NLP / Language modelling
+=============================
 https://arxiv.org/pdf/1809.08510.pdf - Towards language agnostic universal representations
 https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf - Book on NLP
 https://openreview.net/attachment?id=rkgNKkHtvB&name=original_pdf - Reformer: The efficient transformer
 https://arxiv.org/pdf/2009.06732.pdf - Efficient Transformers:  A Survey
+https://arxiv.org/abs/2104.05240 - Factual Probing Is [MASK]: Learning vs. Learning to Recall  (OptiPrompt)
 
 ML - Competition sites:
 =======================
